@@ -1,0 +1,3 @@
+isProduciton: true
+serverPort: 8888
+Table: "Production Table"

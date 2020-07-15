@@ -1,0 +1,3 @@
+isProduciton: false
+serverPort: 8888
+Table: "Staging table"
